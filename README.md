@@ -2,11 +2,11 @@
 <img align="center" alt="quality-assurance" width="100%" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif">
 <h3 align="justify">A passionate Software Quality Assurance Engineer</h3>
 
-- 🔭 I’m currently working on **PT. Kita Lulus Internasional**
+- 🔭 I’m currently working at **PT. Kita Lulus Internasional**
 
 - 📫 How to reach me **hafizh.hafizh@kitalulus.com**
 
-- ⚡ Fun fact **My name only Hafizh**
+- ⚡ Fun fact **My name is only Hafizh**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
