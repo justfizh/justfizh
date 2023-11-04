@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **PT. Kita Lulus Internasional**
 
-- 📫 How to reach me **hafizh.soba@gmail.com**
+- 📫 How to reach me **hafizh.hafizh@kitalulus.com**
 
 - ⚡ Fun fact **My name only Hafizh**
 
