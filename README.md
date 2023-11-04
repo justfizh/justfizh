@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Hafizh</h1>
+<img align="center" alt="quality-assurance" width="100%" src="https://i.pinimg.com/originals/75/e7/ef/75e7ef7aa27009befb076509382b86b8.gif">
+<h3 align="justify">A passionate Software Quality Assurance Engineer</h3>
 
-<!--
-**justfizh/justfizh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on **PT. Kita Lulus Internasional**
 
-Here are some ideas to get you started:
+- 📫 How to reach me **hafizh.soba@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact **My name only Hafizh**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
