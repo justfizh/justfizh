@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **hafizh.hafizh@kitalulus.com**
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hafizhsoba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hafizhsoba" height="30" width="40" /></a>
 <a href="https://instagram.com/hafizhh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hafizhh_" height="30" width="40" /></a>
