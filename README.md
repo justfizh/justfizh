@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working at **PT. Kita Lulus Internasional**
 
-- 📫 How to reach me **hafizh.hafizh@kitalulus.com**
+- 📫 How to reach me **hafizh.soba@gmail.com**
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
